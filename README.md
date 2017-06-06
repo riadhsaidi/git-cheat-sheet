@@ -22,6 +22,12 @@ format that includes a **type**, a **scope** and a **subject**:
 <footer>
 ```
 
+<TEST AXA GIT>
+<git status>
+<git clone>
+<git commit>
+<git push>
+<git pull>
 The **header** is mandatory and the **scope** of the header is optional.
 
 Any line of the commit message cannot be longer 100 characters! This allows the message to be easier
